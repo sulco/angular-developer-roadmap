@@ -77,6 +77,9 @@ Get a [PDF version](./angular-dev-roadmap.pdf).
       - [/entity](https://github.com/ngrx/platform/tree/master/docs/entity/README.md)
       - [ngrx-data](https://github.com/johnpapa/angular-ngrx-data)
     - [NGXS](https://ngxs.gitbook.io/ngxs/)
+1.  Progressive Web Apps
+    - [@angular/pwa](https://angular.io/guide/service-worker-getting-started)
+    - [Workbox](https://developers.google.com/web/tools/workbox/)
 1.  Utility Libraries
     - [Lodash](https://lodash.com/)
     - [Moment.js](https://momentjs.com/)
