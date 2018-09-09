@@ -59,6 +59,10 @@ Get a [PDF version](./angular-dev-roadmap.pdf).
       - [Angular Material](https://material.angular.io/)
       - [Clarity Design System](https://vmware.github.io/clarity/)
       - [Ant Design](https://ng.ant.design/docs/introduce/en)
+1.  Architecture
+    - [Schematics](https://www.npmjs.com/package/@angular-devkit/schematics)
+    - [Building Libraries](https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11)
+    - [@angular/elements](https://angular.io/guide/elements)
 1.  Coding style
     - [Angular Styleguide](https://angular.io/guide/styleguide)
     - [TSLint](https://palantir.github.io/tslint/)
