@@ -86,6 +86,7 @@ Get a [PDF version](./angular-dev-roadmap.pdf).
     - [Workbox](https://developers.google.com/web/tools/workbox/)
 1.  Utility Libraries
     - [Lodash](https://lodash.com/)
+    - [date-fns](https://date-fns.org/)
     - [Moment.js](https://momentjs.com/)
 1.  Testing
     - Unit Testing
