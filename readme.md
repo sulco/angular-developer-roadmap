@@ -56,7 +56,7 @@ Get a [PDF version](./angular-dev-roadmap.pdf).
       - [Semantic UI](https://semantic-ui.com/)
       - [Tailwind CSS](https://tailwindcss.com/)
     - Design Systems
-      - [Angular Material](https://material.angular.io/)
+      - [Angular Material](https://material.angular.io/)  //Can't use Material and Bootstrap simultaneously
       - [Clarity Design System](https://vmware.github.io/clarity/)
       - [Ant Design](https://ng.ant.design/docs/introduce/en)
 1.  Architecture
